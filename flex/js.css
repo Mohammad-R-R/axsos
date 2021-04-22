@@ -1,0 +1,59 @@
+
+body{
+    background-color: turquoise;
+}
+
+h1{
+    width: 970px;
+    background-color: red;
+    color: whitesmoke;
+    border-radius:5px ;
+}
+
+
+.ul{
+    
+    background-color:rgb(147, 214, 236);
+    display: inline-block;
+    padding-right: 15px;
+    border-radius:15% ;
+    color: rgb(17, 175, 228);
+    min-height: 200px;
+    text-decoration: underline;
+    min-height: 200px;
+}
+
+.par{
+    display: inline-block;
+display: flex;
+
+}
+.contant{
+    margin: 10px;
+    padding: 10px;
+    width: 970px;
+    background-color: rgb(29, 27, 27);
+    color:whitesmoke ;
+    border-radius:15px ;
+}
+.span{
+    text-decoration: underline;
+    color: lightseagreen;
+}
+.the{
+    display: flex;
+    padding: 10px;
+    height: 30px;
+    width: 900px;
+    background-color: grey;
+   position: relative;
+   top: 100px; ;
+   border-radius:15px ;
+   text-align: center;
+    font-size: large;
+}
+.check{
+    color: lightblue;
+    text-decoration: underline;
+
+}

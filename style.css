@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 970px;
+    height: 500px;
+    background-color: silver;
+    padding: 10px;
+}
+.top{
+    width: 800px;
+    background-color: green;
+    height: 70px;
+    
+}

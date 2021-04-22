@@ -1,0 +1,183 @@
+
+.wrapper {
+	
+    width: 1000px;
+    
+    margin: auto;
+    position: relative;
+    bottom: 19px;
+
+}
+.topof{
+    width:970px;
+    height: 1000px
+    margin: auto;
+    background-color: rgba(36,80,118,255)
+
+}
+.header{
+    display: flex;
+    background-color:rgba(36,80,118,255);
+   
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+    padding: 10px;
+}
+.search{
+    float: right;
+    background-color: rgba(68,68,68,255);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 44px;
+
+}
+.search search2{
+    width: 10px;
+    height: 15px;
+
+}
+.header p{
+    justify-content: space-between;
+position: relative;
+left: 212px;
+    color: white;
+}
+.link {
+   background-color:rgba(69,126,173,255);
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+    padding: 10px;
+    width: 700px;
+    margin-left: 120px;
+    border-radius: 10px;
+    height: 30px;
+   
+}
+ .ft {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: white;
+}
+.ba li{
+    color: white;
+    font-size: larger;
+}
+
+
+
+
+.btn{
+    height: 20px;
+    width: 35px;
+    background-color: rgba(36,80,118,255);
+    border-radius: 5px;
+    position: relative;
+    bottom: 0px;
+}
+.span1{
+    color:rgba(206,175,0,255);
+}
+.the-list{
+    display: block;
+    text-align: center;
+    
+}
+ul.ba{
+    list-style-type: none;
+    list-style-position: inside;
+
+}
+.boy{
+    display: flex;
+    justify-content: space-evenly;
+}
+.par{
+    width: 600px;
+}
+.yal{
+    height: 250px;
+    
+
+}
+.yal h4{
+    font-style: italic;
+
+}
+.par p {
+    color: white;
+    font-size: small;
+    text-align: center;
+}
+ .par h4{
+     text-align: center;
+    color: rgba(206,175,0,255);
+ }
+ .par p {
+     text-align: center;
+ }
+ .body2{
+     background-color: white;
+     display: flex;
+     margin: 10px;
+     justify-content: space-evenly;
+ }
+ .line1{
+     background-color: rgba(115,167,213,255) ;
+     position: relative;
+     height: 5px;
+     border-radius: 3px;
+     width: 400px;
+     text-align: center;
+     
+
+     
+ }
+ 
+    ul.haha {
+        list-style-type: square;
+        color:rgba(115,167,213,255);
+        list-style-image: linear-gradient(black);
+    
+    }
+
+ 
+ .line2{
+    background-color: rgba(115,167,213,255) ;
+    position: relative;
+    height: 5px;
+    border-radius: 3px;
+    width: 400px;
+    text-align: center;
+
+    
+}
+.footer{
+    display: flex;
+    background-color: rgba(39,90,133,255);
+    height: 90px;
+    position: relative;
+    justify-content: space-evenly;
+    top: 330px;
+}
+.footer h3{
+    color: rgba(135,185,229,255);
+    height: 100px;
+}
+.footer p{
+    display: block;
+    color: rgba(135,185,229,255);
+    position: relative;
+    top: 48px;
+    right: 502px;
+    font-size: smaller;
+}
+.beb{
+    color: lightblue;
+}
+
